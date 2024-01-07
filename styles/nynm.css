@@ -56,6 +56,7 @@
     margin-left: auto;
 }
 
+/* my failure of previous yerar */
 .mfpy {
     display: flex;
     margin: 200px;
@@ -88,6 +89,7 @@
 
 }
 
+/* my plans */
 .my-plans {
     text-align: center;
     color: #151414;
@@ -117,4 +119,34 @@
     font-size: 25px;
     font-weight: 500;
     margin-top: 15px;
+}
+
+/* positive mindset */
+.call-now {
+    width: 1140px;
+    height: 300px;
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    flex-shrink: 0;
+    margin: 135px 230px 30px 350px;
+
+}
+
+.call-now h3 {
+    padding: 60px 620px 10px 65px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.call-now button {
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+    border: 0px;
+    margin: 25px 915px 60px 65px;
 }
