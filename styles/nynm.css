@@ -87,3 +87,34 @@
     flex-shrink: 0;
 
 }
+
+.my-plans {
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: -100px;
+    /* margin-right: 100px; */
+}
+
+.myplans-content {
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.myplans-content h3 {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.myplans-content p {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 15px;
+}
