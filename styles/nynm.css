@@ -79,11 +79,11 @@
     margin: 20px 320px 10px 134px;
 }
 
-.content ul {
-    color: #444343;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    /* 162.5% */
-    margin: 20px auto  auto 150px;
+.fa-solid,
+.fa-check {
+    color: #16D887;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+
 }
